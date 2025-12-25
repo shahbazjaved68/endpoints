@@ -32,7 +32,7 @@
     },
     {
       "id": "nba1",
-      "league": "NBA",
+      "league": "ncaaf",
       "league_name": "National Basketball Association",
       "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
       "title": "Pacers vs Bucks",
@@ -44,10 +44,10 @@
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+          "url": "https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=CquZyjbcgg1kprBqIs8SfJoxvF3QEcnR36NDfL9Olv8&e=1766711014",
           "headers": {
             "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
+            "Referer": "https://streams.center/"
           }
         },
         {
