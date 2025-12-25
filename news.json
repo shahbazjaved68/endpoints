@@ -1,0 +1,2147 @@
+{
+  "header": "NFL News",
+  "link": {
+    "language": "en",
+    "rel": [
+      "index",
+      "desktop",
+      "league"
+    ],
+    "href": "https://www.espn.com/nfl/",
+    "text": "All NFL News",
+    "shortText": "All News",
+    "isExternal": false,
+    "isPremium": false
+  },
+  "articles": [
+    {
+      "id": 47326382,
+      "nowId": "1-47326382",
+      "contentKey": "47326382-1-6-1",
+      "dataSourceIdentifier": "a89a7a4bbbbd0",
+      "type": "Story",
+      "headline": "2025 Christmas NFL, NBA game schedule, picks, odds, previews",
+      "description": "We're previewing all eight Christmas Day games across two sports with picks, predictions, storylines and more.",
+      "lastModified": "2025-12-25T19:44:49Z",
+      "published": "2025-12-25T19:44:49Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "f53f5d1c81336",
+          "id": 47399595,
+          "type": "header",
+          "name": "251224_nba_christmas-day [608x342]",
+          "caption": "This Christmas Day will feature the best stars from the NBA and NFL, including Aidan Hutchinson, Bo Nix, George Pickens, Jalen Brunson, LeBron James and Victor Wembanyama.",
+          "alt": "251224_nba_christmas-day",
+          "credit": "ESPN Illustration",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1223/251224_nba_christmas-day_16x9_608x342.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "NBA stars excited to play on Christmas",
+          "caption": "Darius Garland, Jalen Williams and Klay Thompson reveal their excitement for playing on Christmas.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1222/dm_251222_nba_christmas_vignette/dm_251222_nba_christmas_vignette.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Staff"
+    },
+    {
+      "id": 47412037,
+      "nowId": "1-47412037",
+      "contentKey": "47412037-1-5-1",
+      "dataSourceIdentifier": "404d0e30a8d1d",
+      "type": "HeadlineNews",
+      "headline": "Jaguars CB Jourdan Lewis out for season with foot injury",
+      "description": "Jaguars cornerback Jourdan Lewis will miss the remainder of the season because of a foot injury that will require surgery.",
+      "lastModified": "2025-12-25T18:47:54Z",
+      "published": "2025-12-25T18:47:54Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "415e802171ba3",
+          "id": 47412016,
+          "type": "header",
+          "name": "Jaguars defense [1296x729] - Copy 20251225",
+          "caption": "Jaguars cornerback Jourdan Lewis, who signed in free agency, has two interceptions so far this season.",
+          "credit": "Morgan Tencza-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0922/r1549604_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "How Liam Coen has galvanized the Jaguars this season",
+          "caption": "Peter Schrager tells Pat McAfee how Liam Coen has brought an \"us against the world\" mentality to Jacksonville.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1222/a2cdd6542ceb4dd8bd362fa264706b86871/a2cdd6542ceb4dd8bd362fa264706b86871.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Michael Dirocco"
+    },
+    {
+      "id": 47408992,
+      "nowId": "1-47408992",
+      "contentKey": "47408992-1-6-1",
+      "dataSourceIdentifier": "e26e565561437",
+      "type": "Story",
+      "headline": "Christmas Day NFL highlights: Best plays, moments, touchdowns",
+      "description": "A look at the highlights, top plays and news from the three games on the day around the NFL.",
+      "lastModified": "2025-12-25T18:52:41Z",
+      "published": "2025-12-25T18:52:41Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "6a85e4ec40a22",
+          "id": 47409434,
+          "type": "header",
+          "name": "Xmas day [608x342]",
+          "credit": "Scott Winters/Icon Sportswire",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1225/r1593433_608x342_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN"
+    },
+    {
+      "id": 47248728,
+      "nowId": "1-47248728",
+      "contentKey": "47248728-1-584-1",
+      "dataSourceIdentifier": "587d70194a062",
+      "type": "Eticket",
+      "headline": "2025 NFL playoff picture: Updated odds, seeds, draft order",
+      "description": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
+      "lastModified": "2025-12-25T17:06:31Z",
+      "published": "2025-12-25T17:06:31Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "b72ef95b0054d",
+          "id": 47365345,
+          "type": "header",
+          "name": "251219_nfl_playoff-probs [1296x729]",
+          "caption": "251219_nfl_playoff-probs",
+          "alt": "251219_nfl_playoff-probs",
+          "credit": "Illustration by Masa",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1219/251219_nfl_playoff-probs_16x9.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47406996,
+      "nowId": "1-47406996",
+      "contentKey": "47406996-1-6-1",
+      "dataSourceIdentifier": "30def4e44d56f",
+      "type": "Story",
+      "headline": "NFL Week 17's best arrivals -- led by Dak Prescott",
+      "description": "Before the NFL's Christmas Day slate kicked off, players made sure to put their most fashionable foot forward.",
+      "lastModified": "2025-12-25T15:43:30Z",
+      "published": "2025-12-25T15:43:30Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "1acb22f2f2d75",
+          "id": 47411254,
+          "type": "header",
+          "name": "Dak Prescott [1296x729]",
+          "caption": "Dak Prescott was stylish heading into the Cowboys' Christmas matchup against the Commanders.",
+          "credit": "Dallas Cowboys/X",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1225/r1593463_1296x729_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN staff"
+    },
+    {
+      "id": 47411236,
+      "nowId": "1-47411236",
+      "contentKey": "47411236-1-293-1",
+      "dataSourceIdentifier": "f9203d35fd9a0",
+      "type": "Media",
+      "headline": "Schefter, Saturday cannot believe Tannenbaum's trade proposal for Lions",
+      "description": "Adam Schefter and Jeff Saturday react to Mike Tannenbaum's proposal that the Lions should trade Amon-Ra St. Brown.",
+      "lastModified": "2025-12-25T15:09:48Z",
+      "published": "2025-12-25T15:09:48Z",
+      "images": [
+        {
+          "name": "Schefter, Saturday cannot believe Tannenbaum's trade proposal for Lions",
+          "caption": "Adam Schefter and Jeff Saturday react to Mike Tannenbaum's proposal that the Lions should trade Amon-Ra St. Brown.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1225/94888365185a49539f56b48dfe009aff592/94888365185a49539f56b48dfe009aff592.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47411049,
+      "nowId": "1-47411049",
+      "contentKey": "47411049-1-293-1",
+      "dataSourceIdentifier": "1487ca49ec1b2",
+      "type": "Media",
+      "headline": "Is John Harbaugh coaching for his job in Baltimore?",
+      "description": "Jeff Saturday and Adam Schefter react to the report of a rift between Ravens coach John Harbaugh and Lamar Jackson and discuss who's to blame for Baltimore's disappointing season.",
+      "lastModified": "2025-12-25T14:15:16Z",
+      "published": "2025-12-25T14:15:16Z",
+      "images": [
+        {
+          "name": "Is John Harbaugh coaching for his job in Baltimore?",
+          "caption": "Jeff Saturday and Adam Schefter react to the report of a rift between Ravens coach John Harbaugh and Lamar Jackson and discuss who's to blame for Baltimore's disappointing season.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1225/0d8ccada2d4f401c999f28e63f0757ba552/0d8ccada2d4f401c999f28e63f0757ba552.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47401989,
+      "nowId": "1-47401989",
+      "contentKey": "47401989-1-6-1",
+      "dataSourceIdentifier": "312cc2c85005a",
+      "type": "Story",
+      "headline": "NFL Week 17 uniforms: Vikings' all-white leads Christmas threads",
+      "description": "The holiday week means uniform heat all around the NFL in Week 17, led by a monochromatic look from the Minnesota Vikings.",
+      "lastModified": "2025-12-25T18:23:56Z",
+      "published": "2025-12-25T18:23:56Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "2d52c6d81b0c0",
+          "id": 47402368,
+          "type": "header",
+          "name": "vikings all white [608x342]",
+          "caption": "The Minnesota Vikings will wear their \"Winter Warning\" uniforms against the Detroit Lions.",
+          "credit": "(Photo by David Berding/Getty Images)",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593216_608x342_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "e786c3b4056e1",
+          "id": 47402223,
+          "type": "header",
+          "name": "Atlanta Falcons [1296x1296]",
+          "credit": "Kevin Sabitus/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593199_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "8b7a378129dcc",
+          "id": 47402232,
+          "type": "header",
+          "name": "Buffalo Bills [1296x1296]",
+          "credit": "Bryan Bennett/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593200_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "7f153b1531718",
+          "id": 47402244,
+          "type": "header",
+          "name": "Chicago Bears [1296x1296]",
+          "credit": "Todd Rosenberg/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593201_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "0dd80c60dc570",
+          "id": 47402249,
+          "type": "header",
+          "name": "Cincinnati Bengals [1296x1296]",
+          "credit": "Dylan Buell/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593202_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "cf9ec52323395",
+          "id": 47402256,
+          "type": "header",
+          "name": "Detroit Lions [1296x1296]",
+          "credit": "Nic Antaya/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593203_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "522b5e63975aa",
+          "id": 47402262,
+          "type": "header",
+          "name": "Green Bay Packers [1296x1296]",
+          "credit": "John Fisher/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593204_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "256cef375bdc2",
+          "id": 47402269,
+          "type": "header",
+          "name": "Las Vegas Raiders [1296x1296]",
+          "credit": "Chris Unger/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593205_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "840884b8bfdaf",
+          "id": 47402277,
+          "type": "header",
+          "name": "Los Angeles Chargers [1296x1296]",
+          "credit": "Brooke Sutton/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593206_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "8fa89b372009f",
+          "id": 47402282,
+          "type": "header",
+          "name": "Minnesota Vikings [1296x1296]",
+          "credit": "David Berding/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593207_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "d3ae48ce60d63",
+          "id": 47402288,
+          "type": "header",
+          "name": "New Orleans Saints [1296x1296]",
+          "credit": "Ronald Martinez/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593208_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "a05f1a3aaa67d",
+          "id": 47402296,
+          "type": "header",
+          "name": "New York Giants [1296x1296]",
+          "credit": "Winslow Townson/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593209_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "7793a66afed0a",
+          "id": 47402301,
+          "type": "header",
+          "name": "Pittsburgh Steelers [1296x1296]",
+          "credit": "Nic Antaya/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593210_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "42ef69682562b",
+          "id": 47402306,
+          "type": "header",
+          "name": "San Francisco 49ers  [1296x1296]",
+          "credit": "Lachlan Cunningham/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593211_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "b6667c7326feb",
+          "id": 47402311,
+          "type": "header",
+          "name": "Washington Commanders [1296x1296]",
+          "credit": "Michael Owens/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593212_1296x1296_1-1.jpg"
+        },
+        {
+          "dataSourceIdentifier": "e61913f8aee39",
+          "id": 46979492,
+          "type": "header",
+          "name": "Seattle Seahawks [1296x1296]",
+          "credit": "Todd Rosenberg/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1115/r1576043_1296x1296cc.jpg"
+        },
+        {
+          "dataSourceIdentifier": "e4cf480abb636",
+          "id": 46698563,
+          "type": "header",
+          "name": "Bucs Week 8 [1296x1296]",
+          "alt": "Bucs Week 8",
+          "credit": "Ricky Bowden/Icon Sportswire via Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1023/r1564699_1296x1296cc.jpg"
+        },
+        {
+          "dataSourceIdentifier": "fb8a985ea8308",
+          "id": 46526530,
+          "type": "header",
+          "name": "Philadelphia Eagles [1296x1296]",
+          "credit": "Adam Hunger/AP",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1008/r1557253_1296x1296cc.jpg"
+        },
+        {
+          "dataSourceIdentifier": "deca585217220",
+          "id": 46877820,
+          "type": "header",
+          "name": "Baltimore Ravens [1296x1296]",
+          "credit": "Reed Hoffmann/AP",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1107/r1572037_1296x1296cc.jpg"
+        },
+        {
+          "dataSourceIdentifier": "6dba8a098db18",
+          "id": 46772954,
+          "type": "header",
+          "name": "Tennessee Titans [1296x1296]",
+          "credit": "Andy Lyons/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1029/r1567908_1296x1296cc.jpg"
+        },
+        {
+          "dataSourceIdentifier": "6d9d0dfdb4887",
+          "id": 46877808,
+          "type": "header",
+          "name": "Arizona Cardinals [1296x1296]",
+          "credit": "Justin Casterline/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1107/r1572050_1296x1296cc.jpg"
+        },
+        {
+          "dataSourceIdentifier": "c3ac7ca194766",
+          "id": 47371614,
+          "type": "header",
+          "name": "Dallas Cowboys [1296x1296]",
+          "credit": "Gregory Shamus/Getty Images",
+          "height": 1296,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1220/r1592001_1296x1296_1-1.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Anthony Gharib"
+    },
+    {
+      "id": 47402651,
+      "nowId": "1-47402651",
+      "contentKey": "47402651-1-6-1",
+      "dataSourceIdentifier": "f4a4e22071367",
+      "type": "Story",
+      "headline": "Titans rookies flash hope even during roller-coaster season",
+      "description": "Cam Ward isn't the only rookie having a promising season in Tennessee, but he has helped set the tone for the others.",
+      "lastModified": "2025-12-25T11:00:12Z",
+      "published": "2025-12-25T11:00:12Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "fcc2b1fa8fee9",
+          "id": 47406972,
+          "type": "header",
+          "name": "Titans [608x342]",
+          "caption": "Tennessee Titans rookies Elic Ayomanor, Chimere Dike (left) and quarterback Cam Ward celebrate a touchdown earlier this month.",
+          "credit": "Frank Jansky/Icon Sportswire",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593342_608x342_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Game is slowing down for Cam Ward",
+          "caption": "Turron Davenport breaks down the development of Cam Ward over the course of the season.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1223/dm_251223_titans_ia/dm_251223_titans_ia.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Turron Davenport"
+    },
+    {
+      "id": 47406180,
+      "nowId": "1-47406180",
+      "contentKey": "47406180-1-6-1",
+      "dataSourceIdentifier": "7d4444bda1930",
+      "type": "Story",
+      "headline": "'Mr. Eligible': The growing fraternity of NFL sixth O-linemen",
+      "description": "NFL teams are using sixth O-linemen in more plays this season, and we're highlighting, yep -- six of them.",
+      "lastModified": "2025-12-25T17:49:18Z",
+      "published": "2025-12-25T17:49:18Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "6b78f5144c5a7",
+          "id": 47400885,
+          "type": "header",
+          "name": "Tall tales of the NFL's sixth men (Revised) [608x342]",
+          "caption": "NFL offensive linemen who are contributing in different ways include (from left): Pittsburgh's Spencer Anderson, Philadelphia's Matt Pryor, Detroit's Dan Skipper, Arizona's Kelvin Beachum, Houston's Blake Fisher and Kansas City's Wanya Morris.",
+          "alt": "Tall tales of the NFL's sixth men (Revised)",
+          "credit": "ESPN",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1223/tall_tales_nfl_sixth_men_v2_608x342.png"
+        },
+        {
+          "dataSourceIdentifier": "e8434a4c28806",
+          "id": 47409999,
+          "type": "header",
+          "name": "Spencer Anderson [608x342]",
+          "caption": "Offensive lineman Spencer Anderson is introduced as a starter ahead of the Steelers' Nov. 16 game against the Bengals.",
+          "alt": "Spencer Anderson",
+          "credit": "Courtesy Karl Roser / Pittsburgh Steelers",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1225/r1593446_608x342_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "f07c129b20676",
+          "id": 47410030,
+          "type": "header",
+          "name": "Kelvin Beachum [608x342]",
+          "caption": "Cardinals offensive lineman Kelvin Beachum celebrates quarterback Jacoby Brissett's touchdown against the Cowboys on Nov. 3.",
+          "alt": "Kelvin Beachum",
+          "credit": "Kevin Jairaj/Imagn Images",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1225/r1593447_608x342_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Brooke Pryor"
+    },
+    {
+      "id": 47407824,
+      "nowId": "1-47407824",
+      "contentKey": "47407824-1-6-1",
+      "dataSourceIdentifier": "7c96c108cdf02",
+      "type": "Story",
+      "headline": "What have teams done to slow Colts RB Jonathan Taylor?",
+      "description": "Jonathan Taylor's otherworldly production has tapered off, a by-product of Daniel Jones' injury.",
+      "lastModified": "2025-12-25T11:00:04Z",
+      "published": "2025-12-25T11:00:04Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "adbf45a251b81",
+          "id": 47407843,
+          "type": "header",
+          "name": "Jonathan Taylor [1296x729]",
+          "caption": "Running room was hard to come by for Jonathan Taylor as the 49ers limited him 2.9 yards per carry, his lowest average of the season.",
+          "credit": "Justin Casterline/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593378_1296x729_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Stephen Holder"
+    },
+    {
+      "id": 47391854,
+      "nowId": "1-47391854",
+      "contentKey": "47391854-1-6-1",
+      "dataSourceIdentifier": "6c005db28028f",
+      "type": "Story",
+      "headline": "An NFL holiday story, featuring festive names leaguewide",
+      "description": "From Jaylin Noel to Julius Chestnut, the fictional Holiday Bowl is full of holiday cheer as told by Rich Cimini.",
+      "lastModified": "2025-12-25T15:23:58Z",
+      "published": "2025-12-25T15:23:58Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "3a09c14c2e4d4",
+          "id": 47392465,
+          "type": "header",
+          "name": "Xmas tree [608x342]",
+          "caption": "A fan that was dressed as a Christmas tree accepted an invite to attend the Holiday Bowl.",
+          "credit": "Sean Gardner/Getty Images",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1222/r1592828_608x342_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Rich Cimini"
+    },
+    {
+      "id": 47409985,
+      "nowId": "1-47409985",
+      "contentKey": "47409985-1-293-1",
+      "dataSourceIdentifier": "d32b3cd8b19df",
+      "type": "Media",
+      "headline": "Josh Sweat on Pro Bowl snub: 'It was taken away from me'",
+      "description": "Cardinals linebacker Josh Sweat voices his displeasure over not being selected to the Pro Bowl.",
+      "lastModified": "2025-12-25T05:20:50Z",
+      "published": "2025-12-25T05:20:50Z",
+      "images": [
+        {
+          "name": "Josh Sweat on Pro Bowl snub: 'It was taken away from me'",
+          "caption": "Cardinals linebacker Josh Sweat voices his displeasure over not being selected to the Pro Bowl.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1225/dm_251225_nfl_cardinals_josh_sweat_upset_over_pro_bowl_snub/dm_251225_nfl_cardinals_josh_sweat_upset_over_pro_bowl_snub.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47408986,
+      "nowId": "1-47408986",
+      "contentKey": "47408986-1-5-1",
+      "dataSourceIdentifier": "bb698f9ed5b2f",
+      "type": "HeadlineNews",
+      "headline": "Cardinals' Josh Sweat irked after 'frustrating' Pro Bowl snub",
+      "description": "Cardinals edge rusher Josh Sweat did not hold back his disappointment Wednesday in being named a Pro Bowl alternate this week.",
+      "lastModified": "2025-12-25T05:20:37Z",
+      "published": "2025-12-25T05:20:37Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "20dbe868accbd",
+          "id": 47052547,
+          "type": "header",
+          "name": "Josh Sweat [600x400]",
+          "caption": "Cardinals sack leader Josh Sweat applies the heat to 49ers QB Brock Purdy.",
+          "credit": "Norm Hall/Getty Images",
+          "height": 400,
+          "width": 600,
+          "url": "https://a.espncdn.com/photo/2025/1122/r1578876_600x400_3-2.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Josh Weinfuss"
+    },
+    {
+      "id": 47408812,
+      "nowId": "1-47408812",
+      "contentKey": "47408812-1-293-1",
+      "dataSourceIdentifier": "287588fc1efa6",
+      "type": "Media",
+      "headline": "John Harbaugh: Relationship with Lamar Jackson is 'A-plus'",
+      "description": "Ravens coach John Harbaugh denies a reported rift with quarterback Lamar Jackson.",
+      "lastModified": "2025-12-24T23:41:21Z",
+      "published": "2025-12-24T23:41:21Z",
+      "images": [
+        {
+          "name": "John Harbaugh: Relationship with Lamar Jackson is 'A-plus'",
+          "caption": "Ravens coach John Harbaugh denies a reported rift with quarterback Lamar Jackson.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/dm_251224_lamar/dm_251224_lamar.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47408647,
+      "nowId": "1-47408647",
+      "contentKey": "47408647-1-5-1",
+      "dataSourceIdentifier": "e25373655d1eb",
+      "type": "HeadlineNews",
+      "headline": "Seahawks' Macdonald defends Hall, disagrees with suspension",
+      "description": "Seattle Seahawks coach Mike Macdonald defended Derick Hall on Wednesday in the wake of his one-game suspension by the NFL.",
+      "lastModified": "2025-12-25T02:06:07Z",
+      "published": "2025-12-25T02:06:07Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "2edb6d83fb013",
+          "id": 47408655,
+          "type": "header",
+          "name": "Seahawks Derick Hall [1296x729]",
+          "credit": "Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593412_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Schrager: Darnold \"rewrote his own narrative\" vs. Rams",
+          "caption": "The \"Get Up\" crew breaks down the Seahawks' overtime win over the Rams in Week 16 and what it means for Sam Darnold moving forward.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1219/6d796d8d82a04e18abadfa3880ef9d70542/6d796d8d82a04e18abadfa3880ef9d70542.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Brady Henderson"
+    },
+    {
+      "id": 47408755,
+      "nowId": "1-47408755",
+      "contentKey": "47408755-1-293-1",
+      "dataSourceIdentifier": "e15ba4dc46769",
+      "type": "Media",
+      "headline": "Kevin O'Connell shares his 'respect' for Ryan Kelly",
+      "description": "Vikings coach Kevin O'Connell explains why he has \"so much respect\" for center Ryan Kelly, who was placed on injured reserve.",
+      "lastModified": "2025-12-25T05:19:55Z",
+      "published": "2025-12-25T05:19:55Z",
+      "images": [
+        {
+          "name": "Kevin O'Connell shares his 'respect' for Ryan Kelly",
+          "caption": "Vikings coach Kevin O'Connell explains why he has \"so much respect\" for center Ryan Kelly, who was placed on injured reserve.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/dm_251224_oconnell_on_ryan_kelly/dm_251224_oconnell_on_ryan_kelly.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47408744,
+      "nowId": "1-47408744",
+      "contentKey": "47408744-1-5-1",
+      "dataSourceIdentifier": "52dad9bb6a953",
+      "type": "HeadlineNews",
+      "headline": "Ravens' Harbaugh denies rift, on A-plus terms with Jackson",
+      "description": "Responding to a column in The Baltimore Sun, Ravens coach John Harbaugh insisted on Wednesday that his relationship with quarterback Lamar Jackson is \"A-plus.\"",
+      "lastModified": "2025-12-24T23:43:46Z",
+      "published": "2025-12-24T23:43:46Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "0e5b7330fd282",
+          "id": 47346480,
+          "type": "header",
+          "name": "Ravens Lamar Jackson [1296x729]",
+          "credit": "Ian Johnson/Icon Sportswire",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1218/r1591047_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "John Harbaugh: Relationship with Lamar Jackson is 'A-plus'",
+          "caption": "Ravens coach John Harbaugh denies a reported rift with quarterback Lamar Jackson.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/dm_251224_lamar/dm_251224_lamar.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Jamison Hensley"
+    },
+    {
+      "id": 47408628,
+      "nowId": "1-47408628",
+      "contentKey": "47408628-1-5-1",
+      "dataSourceIdentifier": "db32e192a77c5",
+      "type": "HeadlineNews",
+      "headline": "Vikings' Kelly to IR after 3rd concussion of 2025, 6th of career",
+      "description": "The Vikings placed center Ryan Kelly on injured reserve Wednesday, ending his season and possibly his career after he suffered his third concussion of the year.",
+      "lastModified": "2025-12-24T23:18:35Z",
+      "published": "2025-12-24T23:18:35Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "9c090476eed47",
+          "id": 47408573,
+          "type": "header",
+          "name": "Ryan Kelly (Dec. 24, 2025) [1296x729]",
+          "credit": "Elsa/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593408_1296x729_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Kevin Seifert"
+    },
+    {
+      "id": 47408515,
+      "nowId": "1-47408515",
+      "contentKey": "47408515-1-5-1",
+      "dataSourceIdentifier": "0dec5872c020c",
+      "type": "HeadlineNews",
+      "headline": "WR Rashee Rice among four Chiefs players placed on IR",
+      "description": "Chiefs wide receiver Rashee Rice's 2025 season began with a suspension and now will end on injured reserve.",
+      "lastModified": "2025-12-24T22:03:30Z",
+      "published": "2025-12-24T22:03:30Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "1efb689663e34",
+          "id": 47408483,
+          "type": "header",
+          "name": "Rashee Rice (Dec. 24, 2025) [1296x729]",
+          "credit": "Scott Winters/Icon Sportswire",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593407_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Schefter to McAfee: Chiefs will need another QB to get through season",
+          "caption": "Adam Schefter discusses with Pat McAfee the quarterback situations for the Packers and Chiefs.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1222/84253d3db0ce4e5e875f34ad5db0e970810/84253d3db0ce4e5e875f34ad5db0e970810.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 46104569,
+      "nowId": "1-46104569",
+      "contentKey": "46104569-1-6-1",
+      "dataSourceIdentifier": "63743c925e3ee",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: Kicker",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "lastModified": "2025-12-24T21:32:20Z",
+      "published": "2025-12-24T21:32:20Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "7b0412cfa4805",
+          "id": 46280050,
+          "type": "header",
+          "name": "Brandon Aubrey [1296x729]",
+          "alt": "Dallas Cowboys place kicker Brandon Aubrey (17) kicks a field goal against the Philadelphia Eagles as teammates punter Bryan Anger (5) holds the ball during the second quarter of the game at Lincoln Financial Field.",
+          "credit": "Bill Streicher-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0905/r1541482_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "d01108f52357b",
+          "id": 46105839,
+          "type": "header",
+          "name": "Jake Bates [1296x729]",
+          "alt": "Jake Bates, Detroit Lions kicker",
+          "credit": "Alex Slitz/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2024/1111/r1413638_1296x729_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104572,
+      "nowId": "1-46104572",
+      "contentKey": "46104572-1-6-1",
+      "dataSourceIdentifier": "0585fd667e345",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: D/ST",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "lastModified": "2025-12-24T21:32:38Z",
+      "published": "2025-12-24T21:32:38Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "ab76020db6d5b",
+          "id": 46929823,
+          "type": "header",
+          "name": "Will Anderson Jr., Danielle Hunter [1296x729]",
+          "alt": "Will Anderson Jr., Danielle Hunter",
+          "credit": "Troy Taormina-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0925/r1551036_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "e3432724f3c62",
+          "id": 46105860,
+          "type": "header",
+          "name": "Nik Bonitto [1296x729]",
+          "alt": "Nik Bonitto, Denver Broncos edge rusher",
+          "credit": "AP Photo/John Locher",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0424/r1483287_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Why Cockcroft backs Saints defense in Week 17",
+          "caption": "Tristan H. Cockcroft explains why he's backing the Saints defense in Week 17 vs. the Titans.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1223/dm_251223_Why_Cockcroft_backs_Saints_defense_in_Week_17/dm_251223_Why_Cockcroft_backs_Saints_defense_in_Week_17.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104515,
+      "nowId": "1-46104515",
+      "contentKey": "46104515-1-6-1",
+      "dataSourceIdentifier": "dab48811f58e0",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: Wide receiver",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "lastModified": "2025-12-24T21:31:15Z",
+      "published": "2025-12-24T21:31:15Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "4be6907ebb848",
+          "id": 46519618,
+          "type": "header",
+          "name": "Jaxon Smith-Njigba [1296x729]",
+          "alt": "Jaxon Smith-Njigba #11 of the Seattle Seahawks celebrates a play against the New Orleans Saints as back judge Terrence Miles #111 looks on during the second quarter at Lumen Field.",
+          "credit": "Steph Chambers/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0925/r1550782_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "c99e465fd3bfa",
+          "id": 46105613,
+          "type": "header",
+          "name": "Justin Jefferson celebrating [1296x729]",
+          "alt": "Justin Jefferson, Minnesota Vikings wide receiver",
+          "credit": "AP Photo/John Raoux",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0605/r1502956_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "What kind of fantasy ranking does Chris Olave have for Week 17?",
+          "caption": "Eric Moody breaks down Chris Olave's fantasy performance vs. the Jets.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1221/dm_251221_ffifa/dm_251221_ffifa.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104554,
+      "nowId": "1-46104554",
+      "contentKey": "46104554-1-6-1",
+      "dataSourceIdentifier": "bce4858156343",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: Tight end",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "lastModified": "2025-12-24T21:31:39Z",
+      "published": "2025-12-24T21:31:39Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "0ce6897ddccd2",
+          "id": 46206448,
+          "type": "header",
+          "name": "Trey McBride of Arizona Cardinals [1296x729]",
+          "alt": "Trey McBride, Arizona Cardinals tight end",
+          "credit": "Kirby Lee/Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0805/r1528146_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "b89fcc4e6aa75",
+          "id": 46105620,
+          "type": "header",
+          "name": "George Kittle [1296x729]",
+          "alt": "George Kittle, San Francisco 49ers tight end",
+          "credit": "Michael Owens/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2024/1028/r1406914_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Liz Loza: The Harold Fannin Jr. takeover continued in Week 16",
+          "caption": "Liz Loza details Harold Fannin Jr.'s nice game vs. the Bills ahead of a matchup vs. the Steelers in Week 17.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1221/dm_251221_ffia_fannin/dm_251221_ffia_fannin.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104581,
+      "nowId": "1-46104581",
+      "contentKey": "46104581-1-6-1",
+      "dataSourceIdentifier": "9cc24b38f3831",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: IDP",
+      "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+      "lastModified": "2025-12-24T21:32:00Z",
+      "published": "2025-12-24T21:32:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "2391283b840df",
+          "id": 47002317,
+          "type": "header",
+          "name": "Myles Garrett [1296x729]",
+          "alt": "Myles Garrett, Cleveland Browns edge rusher",
+          "credit": "Ken Blaze-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1117/r1576925_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "b861c09e02613",
+          "id": 46105624,
+          "type": "header",
+          "name": "Will Anderson Jr. [1296x729]",
+          "alt": "Will Anderson Jr., Houston Texans edge rusher",
+          "credit": "Alex Slitz/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0724/r1523098_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "09bd4a7c324db",
+          "id": 46519894,
+          "type": "header",
+          "name": "T.J. Watt [1296x729]",
+          "alt": "T.J. Watt, Pittsburgh Steelers edge rusher",
+          "credit": "AP Photo/Ian Walton",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1007/r1556935_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Why Emmanwori and Carter could be difference-makers in IDP leagues?",
+          "caption": "Tristan H. Cockcroft explains how Nick Emmanwori and Abdul Carter could be key fantasy difference-makers in IDP leagues.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1223/dm_251223_carter_emmanwori/dm_251223_carter_emmanwori.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104478,
+      "nowId": "1-46104478",
+      "contentKey": "46104478-1-6-1",
+      "dataSourceIdentifier": "c8b81f4d8aea2",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: Running back",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "lastModified": "2025-12-24T21:30:51Z",
+      "published": "2025-12-24T21:30:51Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "3b106aeb61401",
+          "id": 46424627,
+          "type": "header",
+          "name": "Ashton Jeanty [1296x729]",
+          "alt": "Ashton Jeanty, Las Vegas Raiders running back",
+          "credit": "Chris Unger/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0928/r1552679_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "e0a80d2b24eb6",
+          "id": 46105607,
+          "type": "header",
+          "name": "Josh Jacobs [1296x729]",
+          "alt": "Josh Jacobs, Green Bay Packers running back",
+          "credit": "Todd Rosenberg/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0813/r1531346_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Why Eric Karabell likes Omarion Hampton for the rest of the season",
+          "caption": "Eric Karabell explains why Omarion Hampton is a top-20 fantasy running back for the rest of the season.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1221/dm_251221_ffia_omarionhampton/dm_251221_ffia_omarionhampton.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104453,
+      "nowId": "1-46104453",
+      "contentKey": "46104453-1-6-1",
+      "dataSourceIdentifier": "c1a123b89938a",
+      "type": "Story",
+      "headline": "Fantasy football rankings for Week 17: Quarterback",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "lastModified": "2025-12-24T21:30:26Z",
+      "published": "2025-12-24T21:30:26Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "45d1d04448dc8",
+          "id": 46206542,
+          "type": "header",
+          "name": "Josh Allen [1296x729]",
+          "alt": "Josh Allen, Buffalo Bills quarterback",
+          "credit": "AP Photo/Jeffrey T. Barnes",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0909/r1543097_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "1d3da42cc00d6",
+          "id": 46105596,
+          "type": "header",
+          "name": "Lamar Jackson (Aug. 20, 2025) [1296x729]",
+          "alt": "Lamar Jackson, Baltimore Ravens quarterback",
+          "credit": "Logan Bowles/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0820/r1534384_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "902f9ff0f8e69",
+          "id": 46592781,
+          "type": "header",
+          "name": "Jayden Daniels [1296x729]",
+          "alt": "Jayden Daniels, Washington Commanders quarterback",
+          "credit": "Scott Taetsch/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1014/r1559867_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Is Joe Burrow a fantasy QB1 going forward?",
+          "caption": "Matt Bowen examines Joe Burrow's fantasy outlook for the remainder of the season.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1221/b1d0bb69-94af-444d-bd16-6276f73de049/b1d0bb69-94af-444d-bd16-6276f73de049.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46028352,
+      "nowId": "1-46028352",
+      "contentKey": "46028352-1-6-1",
+      "dataSourceIdentifier": "1693cbc763f1b",
+      "type": "Story",
+      "headline": "Fantasy football PPR rankings for Week 17",
+      "description": "Weekly individual and composite rankings for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+      "lastModified": "2025-12-24T21:30:06Z",
+      "published": "2025-12-24T21:30:06Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "089ec774fcb11",
+          "id": 46105623,
+          "type": "header",
+          "name": "Ja'Marr Chase and Joe Burrow [1296x729]",
+          "alt": "Ja'Marr Chase and Joe Burrow",
+          "credit": "Katie Stratman/Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0805/r1528199_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "45d1d04448dc8",
+          "id": 46206542,
+          "type": "header",
+          "name": "Josh Allen [1296x729]",
+          "alt": "Josh Allen, Buffalo Bills quarterback",
+          "credit": "AP Photo/Jeffrey T. Barnes",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0909/r1543097_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "ff99563fa04b5",
+          "id": 46592758,
+          "type": "header",
+          "name": "Rashee Rice [1296x729]",
+          "alt": "Rashee Rice, Kansas City Chiefs wide receiver",
+          "credit": "AP Photo/John Bazemore",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0814/r1531668_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "53c1843951531",
+          "id": 46424443,
+          "type": "header",
+          "name": "Jonathan Taylor [1296x729]",
+          "alt": "Jonathan Taylor, Indianapolis Colts running back",
+          "credit": "AJ Mast/Associated Press",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0916/r1546710_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "6556be70cb729",
+          "id": 46279711,
+          "type": "header",
+          "name": "Lamar Jackson [1296x729]",
+          "alt": "Lamar Jackson, Baltimore Ravens quarterback",
+          "credit": "Peter Casey-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0915/r1546104_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Eric Karabell: Tetairoa McMillan will help fantasy managers win titles",
+          "caption": "Eric Karabell explains why he can't sit Tetairoa McMillan for the next two weeks of the fantasy season.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1221/dm_251221_ffia_mcmillan/dm_251221_ffia_mcmillan.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN Fantasy"
+    },
+    {
+      "id": 46104825,
+      "nowId": "1-46104825",
+      "contentKey": "46104825-1-6-1",
+      "dataSourceIdentifier": "06c17eac489c3",
+      "type": "Story",
+      "headline": "Fantasy football flex and superflex rankings for Week 17",
+      "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+      "lastModified": "2025-12-24T21:29:46Z",
+      "published": "2025-12-24T21:29:46Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "3662cff732622",
+          "id": 46208709,
+          "type": "header",
+          "name": "Tetairoa McMillan [1296x729]",
+          "alt": "Tetairoa McMillan, Carolina Panthers wide receiver",
+          "credit": "David Jensen/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0909/r1543201_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "17f2b15be0bca",
+          "id": 46592912,
+          "type": "header",
+          "name": "Jacory Croskey-Merritt [1296x729]",
+          "alt": "Jacory Croskey-Merritt #22 of the Washington Commanders scores a second quarter touchdown against the Los Angeles Chargers at SoFi Stadium on October 05, 2025 in Inglewood, California.",
+          "credit": "Luke Hales/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1007/r1557166_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "26794de73e478",
+          "id": 47002654,
+          "type": "header",
+          "name": "DeVonta Smith [1296x729]",
+          "alt": "DeVonta Smith, Philadelphia Eagles wide receiver",
+          "credit": "Terence Lewis/Icon Sportswire",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1117/r1576938_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "b3db010dc5adc",
+          "id": 46355819,
+          "type": "header",
+          "name": "Jordan Mason [1296x729]",
+          "alt": "Jordan Mason, Minnesota Vikings running back",
+          "credit": "Bailey Hillesheim/Icon Sportswire",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0923/r1549868_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "7d44d178b447d",
+          "id": 46509480,
+          "type": "header",
+          "name": "Deebo Samuel [1296x729]",
+          "alt": "Deebo Samuel, Washington Commanders wide receiver",
+          "credit": "Cooper Neill/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1006/r1556493_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Why Eric Karabell likes Omarion Hampton for the rest of the season",
+          "caption": "Eric Karabell explains why Omarion Hampton is a top-20 fantasy running back for the rest of the season.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1221/dm_251221_ffia_omarionhampton/dm_251221_ffia_omarionhampton.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Eric Karabell"
+    },
+    {
+      "id": 47388596,
+      "nowId": "1-47388596",
+      "contentKey": "47388596-1-6-1",
+      "dataSourceIdentifier": "de01c83f2eb29",
+      "type": "Story",
+      "headline": "Fantasy playbook: NFL Week 17 Shadow Reports, lineup locks and projected scores",
+      "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+      "lastModified": "2025-12-24T21:48:52Z",
+      "published": "2025-12-24T21:48:52Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "0dfb3d1981a7d",
+          "id": 47408151,
+          "type": "header",
+          "name": "Chris Oladokun [576x324]",
+          "caption": "Stranger things have happened, but trusting Chris Oladokun with your fantasy fate seems like a bad idea.",
+          "alt": "Kansas City Chiefs quarterback Chris Oladokun (19) is chased by Tennessee Titans nose tackle T'Vondre Sweat (93) during the first half of an NFL football game.",
+          "credit": "AP",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593392_576x324_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "459d221ef786d",
+          "id": 47408119,
+          "type": "header",
+          "name": "Green Bay WR [576x324]",
+          "caption": "Green Bay continues to spread the ball around, making it difficult to trust any of the team's WR options in Week 17.",
+          "alt": "Green Bay Packers wide receiver Romeo Doubs (87) celebrates with his teammates after scoring a touchdown during a regular season game.",
+          "credit": "Joseph Weiser/Icon Sportswire",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593390_576x324_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "5cdd95403e97f",
+          "id": 47408067,
+          "type": "header",
+          "name": "Caleb Williams [576x324]",
+          "caption": "Caleb Williams remains a fringe QB1 for Week 17 action.",
+          "alt": "Chicago Bears quarterback Caleb Williams (18) runs with the ball and offensive tackle Ozzy Trapilo (75) watches the play against Green Bay Packers defensive end Brenton Cox Jr. (57).",
+          "credit": "Mike Dinovo-Imagn Images",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593387_576x324_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Why George Kittle ranks No. 1 among TE's in Week 17",
+          "caption": "Daniel Dopp and Stephania Bell review George Kittle's Week 16 fantasy performance and injury status ahead of Week 17.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1223/1b67a891-2748-44dc-8c94-dd3addbd5c22/1b67a891-2748-44dc-8c94-dd3addbd5c22.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Mike Clay"
+    },
+    {
+      "id": 47408345,
+      "nowId": "1-47408345",
+      "contentKey": "47408345-1-293-1",
+      "dataSourceIdentifier": "a84367cf56984",
+      "type": "Media",
+      "headline": "T.J. Watt returns to Steelers practice",
+      "description": "T.J. Watt returns to practice two weeks after sustaining a partially punctured lung during a dry needling treatment.",
+      "lastModified": "2025-12-24T21:24:12Z",
+      "published": "2025-12-24T21:24:12Z",
+      "images": [
+        {
+          "name": "T.J. Watt returns to Steelers practice",
+          "caption": "T.J. Watt returns to practice two weeks after sustaining a partially punctured lung during a dry needling treatment.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1224/65b918a2-7b5c-44fa-a66f-10a8661ada8b/65b918a2-7b5c-44fa-a66f-10a8661ada8b.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47408293,
+      "nowId": "1-47408293",
+      "contentKey": "47408293-1-6-1",
+      "dataSourceIdentifier": "8725759b0dc0b",
+      "type": "Story",
+      "headline": "Predicting Week 17's top 30 most likely anytime touchdown scorers",
+      "description": "Jonathan Taylor, Omarion Hampton and Bijan Robinson are among top predictions for anytime touchdown props in Week 17.",
+      "lastModified": "2025-12-24T22:13:35Z",
+      "published": "2025-12-24T22:13:35Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "185e904cc0c67",
+          "id": 47408236,
+          "type": "header",
+          "name": "Omarion Hampton [1296x729]",
+          "caption": "Omarion Hampton has two touchdowns in the past three weeks.",
+          "credit": "Kirby Lee-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593400_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Bell: McCaffrey is 'ridiculously consistent' in fantasy",
+          "caption": "Stephania Bell breaks down Christian McCaffrey's fantasy value after an impressive Week 16.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1223/d962a779-9c68-4c0b-b3c3-d1f15502e513/d962a779-9c68-4c0b-b3c3-d1f15502e513.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Mike Clay"
+    },
+    {
+      "id": 47408261,
+      "nowId": "1-47408261",
+      "contentKey": "47408261-1-5-1",
+      "dataSourceIdentifier": "987e98e824def",
+      "type": "HeadlineNews",
+      "headline": "Steelers' T.J. Watt practices for 1st time since lung injury",
+      "description": "The Steelers' T.J. Watt, two weeks removed from sustaining a partially punctured lung during a dry needling treatment and having subsequent reparative surgery, returned to practice for the first time Wednesday.",
+      "lastModified": "2025-12-24T21:14:40Z",
+      "published": "2025-12-24T21:14:40Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "be6242c5487fd",
+          "id": 47289758,
+          "type": "header",
+          "name": "T.J. Watt [1296x729]",
+          "alt": "T.J. Watt",
+          "credit": "Justin Casterline/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1213/r1588703_1296x729_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Brooke Pryor"
+    },
+    {
+      "id": 47407967,
+      "nowId": "1-47407967",
+      "contentKey": "47407967-1-5-1",
+      "dataSourceIdentifier": "9f3a2a272c70a",
+      "type": "HeadlineNews",
+      "headline": "Washington WR Denzel Boston says he's entering NFL draft",
+      "description": "Washington junior wide receiver Denzel Boston announced Wednesday that he's declaring for the NFL draft.",
+      "lastModified": "2025-12-24T20:18:45Z",
+      "published": "2025-12-24T20:18:45Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "4673beee115c3",
+          "id": 47407949,
+          "type": "header",
+          "name": "Denzel Boston (Dec. 24, 2025) [1296x729]",
+          "credit": "Jordon Kelly/Icon Sportswire",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593381_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Demond Williams Jr. connects for 78-yard TD pass",
+          "caption": "Demond Williams Jr. throws 78-yard touchdown pass to Denzel Boston",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1214/ef02046e-1797-417b-8ae7-3a700772cc26/ef02046e-1797-417b-8ae7-3a700772cc26.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Jake Trotter"
+    },
+    {
+      "id": 47407926,
+      "nowId": "1-47407926",
+      "contentKey": "47407926-1-6-1",
+      "dataSourceIdentifier": "54d52d383742d",
+      "type": "Story",
+      "headline": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
+      "description": "Build a winning DFS lineup with our DraftKings NFL Week 17 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
+      "lastModified": "2025-12-24T20:11:31Z",
+      "published": "2025-12-24T20:11:31Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "34f7cf509e755",
+          "id": 47407867,
+          "type": "header",
+          "name": "Ashton Jeanty for DK week 17 CS (251224) [1296x729]",
+          "caption": "Ashton Jeanty put up 34.8 DraftKings points in Week 16 against the Houston Texans, his second-best result of the season and only his second 30-point game.",
+          "alt": "Las Vegas Raiders running back Ashton Jeanty #2 is shown during the game between the Las Vegas Raiders and the Philadelphia Eagles on December 14th, 2025 at Lincoln Financial Field.",
+          "credit": "Terence Lewis/Icon Sportswire",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593379_1296x729_16-9.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Mike Clay"
+    },
+    {
+      "id": 47407640,
+      "nowId": "1-47407640",
+      "contentKey": "47407640-1-293-1",
+      "dataSourceIdentifier": "306106cd24a35",
+      "type": "Media",
+      "headline": "J.J. Watt tells McAfee his football Christmas wish",
+      "description": "J.J. Watt describes to Pat McAfee his football Christmas wish of being personally responsible for replay assistance on roughing the passer calls during games.",
+      "lastModified": "2025-12-24T18:58:23Z",
+      "published": "2025-12-24T18:58:23Z",
+      "images": [
+        {
+          "name": "J.J. Watt tells McAfee his football Christmas wish",
+          "caption": "J.J. Watt describes to Pat McAfee his football Christmas wish of being personally responsible for replay assistance on roughing the passer calls during games.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/6e4eaf59db2043fdb8b2c11892601bd7836/6e4eaf59db2043fdb8b2c11892601bd7836.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47407565,
+      "nowId": "1-47407565",
+      "contentKey": "47407565-1-5-1",
+      "dataSourceIdentifier": "5d0896d8eee25",
+      "type": "HeadlineNews",
+      "headline": "Commanders QB Josh Johnson to make first NFL start since 2021",
+      "description": "The Commanders will start 39-year-old Josh Johnson at quarterback for their Christmas Day home game against the Cowboys, coach Dan Quinn announced Wednesday.",
+      "lastModified": "2025-12-24T21:15:55Z",
+      "published": "2025-12-24T21:15:55Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "aac904e0f76fa",
+          "id": 47407524,
+          "type": "header",
+          "name": "Josh Johnson (Dec. 24, 2025) [1296x729]",
+          "credit": "Greg Fiume/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593364_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Commanders to start QB Johnson vs. Cowboys",
+          "caption": "Commanders to start QB Johnson vs. Cowboys",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1224/d1511cfc-4c3a-45f1-ac75-f881c0ae570e/d1511cfc-4c3a-45f1-ac75-f881c0ae570e.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "John Keim"
+    },
+    {
+      "id": 47407460,
+      "nowId": "1-47407460",
+      "contentKey": "47407460-1-293-1",
+      "dataSourceIdentifier": "79557b07456d6",
+      "type": "Media",
+      "headline": "Mike McCarthy: Making the Pro Bowl is a big deal",
+      "description": "Mike McCarthy talks about the honor of making the Pro Bowl and making memories with your family.",
+      "lastModified": "2025-12-24T18:04:04Z",
+      "published": "2025-12-24T18:04:04Z",
+      "images": [
+        {
+          "name": "Mike McCarthy: Making the Pro Bowl is a big deal",
+          "caption": "Mike McCarthy talks about the honor of making the Pro Bowl and making memories with your family.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/55d9ee782a0940959f463d963a2469c2780/55d9ee782a0940959f463d963a2469c2780.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47407173,
+      "nowId": "1-47407173",
+      "contentKey": "47407173-1-22-1",
+      "dataSourceIdentifier": "fbe27b208c4d5",
+      "type": "Preview",
+      "headline": "Cowboys, Commanders out of playoffs ahead of their matchup",
+      "description": "Dallas (6-8-1) at Washington (4-11)",
+      "lastModified": "2025-12-24T21:52:03Z",
+      "published": "2025-12-24T21:52:03Z",
+      "images": [
+        {
+          "type": "stitcher",
+          "name": "espn.applewatch.awayhome.1",
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.applewatch.homeaway.1",
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.applewatch.homeaway.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.16x9.1",
+          "ratio": "16x9",
+          "height": 173,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.awayhome.16x9.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.16x9.1",
+          "ratio": "16x9",
+          "height": 173,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.homeaway.16x9.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.1x1.1",
+          "ratio": "1x1",
+          "height": 308,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.awayhome.1x1.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.1x1.1",
+          "ratio": "1x1",
+          "height": 308,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.homeaway.1x1.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.5x2.1",
+          "ratio": "5x2",
+          "height": 124,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.awayhome.5x2.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.5x2.1",
+          "ratio": "5x2",
+          "height": 124,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.homeaway.5x2.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.16x9.2",
+          "ratio": "16x9",
+          "height": 353,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.awayhome.16x9.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.16x9.2",
+          "ratio": "16x9",
+          "height": 353,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.homeaway.16x9.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.5x2.2",
+          "ratio": "5x2",
+          "height": 251,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.awayhome.5x2.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.5x2.2",
+          "ratio": "5x2",
+          "height": 251,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772710.png?templateId=espn.all.homeaway.5x2.2"
+        },
+        {
+          "type": "Media",
+          "name": "Live on NETFLIX: Jacory Croskey-Merritt rumbles into the end zone for a TD",
+          "caption": "Jacory Croskey-Merritt breaks a couple tackles and walks into the end zone for the Commanders.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1225/83b8081a-6de6-4120-b591-0fad8583e836/83b8081a-6de6-4120-b591-0fad8583e836.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47407093,
+      "nowId": "1-47407093",
+      "contentKey": "47407093-1-293-1",
+      "dataSourceIdentifier": "e168272d6fad2",
+      "type": "Media",
+      "headline": "Who needs the win more Sunday, the Bears or the 49ers?",
+      "description": "Marcus Spears and Jeff Saturday disagree about whether the Bears or 49ers need a win on Sunday more.",
+      "lastModified": "2025-12-24T17:22:40Z",
+      "published": "2025-12-24T17:22:40Z",
+      "images": [
+        {
+          "name": "Who needs the win more Sunday, the Bears or the 49ers?",
+          "caption": "Marcus Spears and Jeff Saturday disagree about whether the Bears or 49ers need a win on Sunday more.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/32d41addd17f403c81d329e9c0ce73b5710/32d41addd17f403c81d329e9c0ce73b5710.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47407065,
+      "nowId": "1-47407065",
+      "contentKey": "47407065-1-5-1",
+      "dataSourceIdentifier": "1cc1b509d229b",
+      "type": "HeadlineNews",
+      "headline": "Raiders place Brock Bowers, Jeremy Chinn on IR",
+      "description": "The Raiders have placed starting tight end Brock Bowers and safety Jeremy Chinn on injured reserve.",
+      "lastModified": "2025-12-24T19:12:32Z",
+      "published": "2025-12-24T19:12:32Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "377a0654fce42",
+          "id": 47407046,
+          "type": "header",
+          "name": "Brock Bowers (Dec. 24, 2025) [1296x729]",
+          "credit": "Brooke Sutton/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593348_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Geno Smith throws a TD pass to Brock Bowers",
+          "caption": "Geno Smith connects with Brock Bowers in the end zone for a 7-yard touchdown.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1221/50f4bc8f15df4ddc9980eae61e4bd27a1174/50f4bc8f15df4ddc9980eae61e4bd27a1174.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Ryan McFadden"
+    },
+    {
+      "id": 47407016,
+      "nowId": "1-47407016",
+      "contentKey": "47407016-1-22-1",
+      "dataSourceIdentifier": "9960592690f0b",
+      "type": "Preview",
+      "headline": "Broncos aim to dominate Chiefs in Christmas night showdown in Kansas City",
+      "description": "Denver (12-3) at Kansas City (6-9)",
+      "lastModified": "2025-12-24T18:12:00Z",
+      "published": "2025-12-24T18:12:00Z",
+      "images": [
+        {
+          "type": "stitcher",
+          "name": "espn.applewatch.awayhome.1",
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.applewatch.homeaway.1",
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.applewatch.homeaway.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.16x9.1",
+          "ratio": "16x9",
+          "height": 173,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.awayhome.16x9.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.16x9.1",
+          "ratio": "16x9",
+          "height": 173,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.homeaway.16x9.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.1x1.1",
+          "ratio": "1x1",
+          "height": 308,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.awayhome.1x1.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.1x1.1",
+          "ratio": "1x1",
+          "height": 308,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.homeaway.1x1.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.5x2.1",
+          "ratio": "5x2",
+          "height": 124,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.awayhome.5x2.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.5x2.1",
+          "ratio": "5x2",
+          "height": 124,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.homeaway.5x2.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.16x9.2",
+          "ratio": "16x9",
+          "height": 353,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.awayhome.16x9.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.16x9.2",
+          "ratio": "16x9",
+          "height": 353,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.homeaway.16x9.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.5x2.2",
+          "ratio": "5x2",
+          "height": 251,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.awayhome.5x2.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.5x2.2",
+          "ratio": "5x2",
+          "height": 251,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772622.png?templateId=espn.all.homeaway.5x2.2"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47406945,
+      "nowId": "1-47406945",
+      "contentKey": "47406945-1-5-1",
+      "dataSourceIdentifier": "d0ff042755c51",
+      "type": "HeadlineNews",
+      "headline": "Florida State QB Castellanos drops appeal, enters NFL draft",
+      "description": "Florida State quarterback Thomas Castellanos has dropped his appeal for another year of college eligibility and declared for the NFL draft.",
+      "lastModified": "2025-12-24T16:32:05Z",
+      "published": "2025-12-24T16:32:05Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "67126dcc2d32c",
+          "id": 46115917,
+          "type": "header",
+          "name": "Tommy Castellanos  [600x400]",
+          "credit": "Melina Myers-Imagn Images",
+          "height": 400,
+          "width": 600,
+          "url": "https://a.espncdn.com/photo/2025/0830/r1538963_600x400_3-2.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Thomas Castellanos connects for 17-yard TD pass",
+          "caption": "Thomas Castellanos connects for 17-yard TD pass",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1130/f48f9115-179c-4d4b-b424-6ea5c4d47b7b/f48f9115-179c-4d4b-b424-6ea5c4d47b7b.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47406896,
+      "nowId": "1-47406896",
+      "contentKey": "47406896-1-22-1",
+      "dataSourceIdentifier": "3096e26760ef5",
+      "type": "Preview",
+      "headline": "Lions visit eliminated Vikings on Christmas with their chance of returning to the playoffs dwindling",
+      "description": "Detroit (8-7) at Minnesota (7-8)",
+      "lastModified": "2025-12-24T19:26:00Z",
+      "published": "2025-12-24T19:26:00Z",
+      "images": [
+        {
+          "type": "stitcher",
+          "name": "espn.applewatch.awayhome.1",
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.applewatch.homeaway.1",
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.applewatch.homeaway.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.16x9.1",
+          "ratio": "16x9",
+          "height": 173,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.awayhome.16x9.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.16x9.1",
+          "ratio": "16x9",
+          "height": 173,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.homeaway.16x9.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.1x1.1",
+          "ratio": "1x1",
+          "height": 308,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.awayhome.1x1.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.1x1.1",
+          "ratio": "1x1",
+          "height": 308,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.homeaway.1x1.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.5x2.1",
+          "ratio": "5x2",
+          "height": 124,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.awayhome.5x2.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.5x2.1",
+          "ratio": "5x2",
+          "height": 124,
+          "width": 308,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.homeaway.5x2.1"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.16x9.2",
+          "ratio": "16x9",
+          "height": 353,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.awayhome.16x9.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.16x9.2",
+          "ratio": "16x9",
+          "height": 353,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.homeaway.16x9.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.awayhome.5x2.2",
+          "ratio": "5x2",
+          "height": 251,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.awayhome.5x2.2"
+        },
+        {
+          "type": "stitcher",
+          "name": "espn.all.homeaway.5x2.2",
+          "ratio": "5x2",
+          "height": 251,
+          "width": 628,
+          "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401772711.png?templateId=espn.all.homeaway.5x2.2"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47406631,
+      "nowId": "1-47406631",
+      "contentKey": "47406631-1-293-1",
+      "dataSourceIdentifier": "3a0029a38d3c7",
+      "type": "Media",
+      "headline": "Spears: Metcalf's suspension should've 'absolutely' been upheld",
+      "description": "Marcus Spears breaks down why he concurs with DK Metcalf's suspension from different standpoints following a fan altercation.",
+      "lastModified": "2025-12-24T20:41:06Z",
+      "published": "2025-12-24T20:41:06Z",
+      "images": [
+        {
+          "name": "Spears: Metcalf's suspension should've 'absolutely' been upheld",
+          "caption": "Marcus Spears breaks down why he concurs with DK Metcalf's suspension from different standpoints following a fan altercation.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/83782510652244099397f8f4ab166552627/83782510652244099397f8f4ab166552627.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47392543,
+      "nowId": "1-47392543",
+      "contentKey": "47392543-1-6-1",
+      "dataSourceIdentifier": "6f5dffad40519",
+      "type": "Story",
+      "headline": "NFL Week 17 latest buzz, questions, news and fantasy tips",
+      "description": "Here's the latest heading into NFL Week 17, including intel on Joe Burrow's future, opening QB1 spots, the Jaguars' legitimacy and Pro Bowl roster fallout.",
+      "lastModified": "2025-12-24T15:42:10Z",
+      "published": "2025-12-24T15:42:10Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "59d2394bb30e9",
+          "id": 47400006,
+          "type": "header",
+          "name": "Joe Burrow [608x342]",
+          "credit": "Sam Navarro-Imagn Images",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1223/r1593082_608x342_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Orlovsky: Trevor Lawrence is the NFL's most improved player",
+          "caption": "Dan Orlovsky has some praise for Jaguars quarterback Trevor Lawrence.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1222/7920f78303584440b114f5481a353717577/7920f78303584440b114f5481a353717577.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "Jeremy Fowler and Dan Graziano"
+    },
+    {
+      "id": 47402185,
+      "nowId": "1-47402185",
+      "contentKey": "47402185-1-6-1",
+      "dataSourceIdentifier": "f973ecad81147",
+      "type": "Story",
+      "headline": "Best bets, DFS tips: Broncos inch closer to AFC West title, Lions stay in playoff hunt, Cowboys rebound?",
+      "description": "Betting the Christmas Day games? Here are the odds, game picks, prop plays and daily fantasy tips for all three.",
+      "lastModified": "2025-12-24T14:03:58Z",
+      "published": "2025-12-24T14:03:58Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "cab656908b2c7",
+          "id": 47404021,
+          "type": "header",
+          "name": "CeeDee Lamb of Dallas Cowboys [608x342]",
+          "caption": "CeeDee Lamb is in line for a big game Thursday against a vulnerable Commanders defense.",
+          "alt": "CeeDee Lamb",
+          "credit": "Kevin Jairaj/Imagn Images",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593255_608x342_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "f5022a4f29c6e",
+          "id": 47404132,
+          "type": "header",
+          "name": "Jared Goff of Detroit Lions [608x342]",
+          "caption": "Even against a competent Vikings secondary, Jared Goff should put up solid numbers.",
+          "alt": "Jared Goff",
+          "credit": "Mike Mulholland/Getty Images",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593257_608x342_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "9bb3a95f8c7c2",
+          "id": 47404255,
+          "type": "header",
+          "name": "Courtland Sutton of Denver Broncos [608x342]",
+          "caption": "Courtland Sutton has at least six catches in three straight games and should stay hot in Kansas City.",
+          "alt": "Courtland Sutton",
+          "credit": "Ron Chenoy/Imagn Images",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/1224/r1593262_608x342_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Daniel Dopp: CeeDee Lamb, George Pickens both top-15 WRs for Week 17",
+          "caption": "Daniel Dopp breaks down the fantasy performances of CeeDee Lamb and George Pickens vs. the Chargers ahead of a matchup vs. the Commanders.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1222/8f7ffb22-96b0-4197-9b51-a6aec0a26bfd/8f7ffb22-96b0-4197-9b51-a6aec0a26bfd.jpg"
+        }
+      ],
+      "premium": false,
+      "byline": "ESPN"
+    },
+    {
+      "id": 47406293,
+      "nowId": "1-47406293",
+      "contentKey": "47406293-1-293-1",
+      "dataSourceIdentifier": "f0b2ca48c56a0",
+      "type": "Media",
+      "headline": "Should the Steelers rest Aaron Rodgers if they clinch a playoff spot?",
+      "description": "Dan Graziano and Louis Riddick explain why resting Aaron Rodgers might be a bad idea if the Steelers clinch a playoff spot with a Ravens loss.",
+      "lastModified": "2025-12-24T14:32:26Z",
+      "published": "2025-12-24T14:32:26Z",
+      "images": [
+        {
+          "name": "Should the Steelers rest Aaron Rodgers if they clinch a playoff spot?",
+          "caption": "Dan Graziano and Louis Riddick explain why resting Aaron Rodgers might be a bad idea if the Steelers clinch a playoff spot with a Ravens loss.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/713b3e096a65442fbab5d0b2757defc1545/713b3e096a65442fbab5d0b2757defc1545.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47406268,
+      "nowId": "1-47406268",
+      "contentKey": "47406268-1-293-1",
+      "dataSourceIdentifier": "f58acbb04e093",
+      "type": "Media",
+      "headline": "Why Jeff Saturday believes Lions' Super Bowl window is closing",
+      "description": "Jeff Saturday explains why the Lions' Super Bowl window is starting to close, pointing to Ben Johnson's departure as a key loss.",
+      "lastModified": "2025-12-24T14:07:34Z",
+      "published": "2025-12-24T14:07:34Z",
+      "images": [
+        {
+          "name": "Why Jeff Saturday believes Lions' Super Bowl window is closing",
+          "caption": "Jeff Saturday explains why the Lions' Super Bowl window is starting to close, pointing to Ben Johnson's departure as a key loss.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/wsc/2025/1224/f76f31ce-a74b-4f77-a8b0-c131cef71aeb/f76f31ce-a74b-4f77-a8b0-c131cef71aeb.jpg"
+        }
+      ],
+      "premium": false
+    },
+    {
+      "id": 47406207,
+      "nowId": "1-47406207",
+      "contentKey": "47406207-1-293-1",
+      "dataSourceIdentifier": "785842eb9328d",
+      "type": "Media",
+      "headline": "Can Saquon find success vs. Buffalo defense?",
+      "description": "Jeff Saturday and Louis Riddick discuss what Saquon Barkley can do against a Bills defense that has struggled to stop the run.",
+      "lastModified": "2025-12-25T02:55:17Z",
+      "published": "2025-12-25T02:55:17Z",
+      "images": [
+        {
+          "name": "Can Saquon find success vs. Buffalo defense?",
+          "caption": "Jeff Saturday and Louis Riddick discuss what Saquon Barkley can do against a Bills defense that has struggled to stop the run.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/1224/7eadc107a875429eb747c059f50bf16d514/7eadc107a875429eb747c059f50bf16d514.jpg"
+        }
+      ],
+      "premium": false
+    }
+  ]
+}
