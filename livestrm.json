@@ -1,412 +1,367 @@
 {
-  "matches": [
+  "leagues": [
     {
-      "id": "nfl1",
       "league": "NFL",
       "league_name": "National Football League",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
-      "title": "Cowboys vs Cardinals",
-      "team_a": "Dallas Cowboys",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png",
-      "team_b": "Arizona Cardinals",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png",
-      "time": "2025-11-04T06:15:00+05:00",
-      "streams": [
+      "matches": [
         {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
+          "id": "nfl1",
+          "title": "Cowboys vs Cardinals",
+          "team_a": "Dallas Cowboys",
+          "team_b": "Arizona Cardinals",
+          "time": "2025-11-04T06:15:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
         }
       ]
     },
     {
-      "id": "nba1",
       "league": "ncaaf",
       "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Pacers vs Bucks",
-      "team_a": "Indiana Pacers",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png",
-      "team_b": "Milwaukee Bucks",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png",
-      "time": "2025-11-04T05:00:00+05:00",
-      "streams": [
+      "matches": [
         {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=CquZyjbcgg1kprBqIs8SfJoxvF3QEcnR36NDfL9Olv8&e=1766711014",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streams.center/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
+          "id": "nba1",
+          "title": "Pacers vs Bucks",
+          "team_a": "Indiana Pacers",
+          "team_b": "Milwaukee Bucks",
+          "time": "2025-11-04T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=CquZyjbcgg1kprBqIs8SfJoxvF3QEcnR36NDfL9Olv8&e=1766711014",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
         }
       ]
     },
     {
-      "id": "nba2",
       "league": "NBA",
       "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Nets vs Timberwolves",
-      "team_a": "Brooklyn Nets",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png",
-      "team_b": "Minnesota Timberwolves",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png",
-      "time": "2025-11-04T05:00:00+05:00",
-      "streams": [
+      "matches": [
         {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
+          "id": "nba2",
+          "title": "Nets vs Timberwolves",
+          "team_a": "Brooklyn Nets",
+          "team_b": "Minnesota Timberwolves",
+          "time": "2025-11-04T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
         },
         {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
+          "id": "nba3",
+          "title": "Knicks vs Wizards",
+          "team_a": "New York Knicks",
+          "team_b": "Washington Wizards",
+          "time": "2025-11-04T05:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba4",
+          "title": "Celtics vs Jazz",
+          "team_a": "Boston Celtics",
+          "team_b": "Utah Jazz",
+          "time": "2025-11-04T05:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba5",
+          "title": "Grizzlies vs Pistons",
+          "team_a": "Memphis Grizzlies",
+          "team_b": "Detroit Pistons",
+          "time": "2025-11-04T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba6",
+          "title": "Rockets vs Mavericks",
+          "team_a": "Houston Rockets",
+          "team_b": "Dallas Mavericks",
+          "time": "2025-11-04T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba7",
+          "title": "Nuggets vs Kings",
+          "team_a": "Denver Nuggets",
+          "team_b": "Sacramento Kings",
+          "time": "2025-11-04T07:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba8",
+          "title": "Trail Blazers vs Lakers",
+          "team_a": "Portland Trail Blazers",
+          "team_b": "Los Angeles Lakers",
+          "time": "2025-11-04T08:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba9",
+          "title": "Clippers vs Heat",
+          "team_a": "Los Angeles Clippers",
+          "team_b": "Miami Heat",
+          "time": "2025-11-04T08:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            },
+            {
+              "quality": "Server2",
+              "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://matchio.zip/"
+              }
+            }
+          ]
         }
       ]
     },
     {
-      "id": "nba3",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Knicks vs Wizards",
-      "team_a": "New York Knicks",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png",
-      "team_b": "Washington Wizards",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png",
-      "time": "2025-11-04T05:30:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nba4",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Celtics vs Jazz",
-      "team_a": "Boston Celtics",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png",
-      "team_b": "Utah Jazz",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png",
-      "time": "2025-11-04T05:30:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nba5",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Grizzlies vs Pistons",
-      "team_a": "Memphis Grizzlies",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png",
-      "team_b": "Detroit Pistons",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png",
-      "time": "2025-11-04T06:00:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nba6",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Rockets vs Mavericks",
-      "team_a": "Houston Rockets",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png",
-      "team_b": "Dallas Mavericks",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png",
-      "time": "2025-11-04T06:00:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nba7",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Nuggets vs Kings",
-      "team_a": "Denver Nuggets",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png",
-      "team_b": "Sacramento Kings",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sac.png",
-      "time": "2025-11-04T07:00:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nba8",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Trail Blazers vs Lakers",
-      "team_a": "Portland Trail Blazers",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png",
-      "team_b": "Los Angeles Lakers",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png",
-      "time": "2025-11-04T08:00:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nba9",
-      "league": "NBA",
-      "league_name": "National Basketball Association",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
-      "title": "Clippers vs Heat",
-      "team_a": "Los Angeles Clippers",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png",
-      "team_b": "Miami Heat",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mia.png",
-      "time": "2025-11-04T08:30:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        },
-        {
-          "quality": "Server2",
-          "url": "https://storage.googleapis.com/placeholder/mux_video_ts1/index-1.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://matchio.zip/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nhl1",
       "league": "NHL",
       "league_name": "National Hockey League",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
-      "title": "Maple Leafs vs Penguins",
-      "team_a": "Toronto Maple Leafs",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/tor.png",
-      "team_b": "Pittsburgh Penguins",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png",
-      "time": "2025-11-04T05:30:00+05:00",
-      "streams": [
+      "matches": [
         {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
+          "id": "nhl1",
+          "title": "Maple Leafs vs Penguins",
+          "team_a": "Toronto Maple Leafs",
+          "team_b": "Pittsburgh Penguins",
+          "time": "2025-11-04T05:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl2",
+          "title": "Blues vs Oilers",
+          "team_a": "St. Louis Blues",
+          "team_b": "Edmonton Oilers",
+          "time": "2025-11-04T06:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl3",
+          "title": "Predators vs Canucks",
+          "team_a": "Nashville Predators",
+          "team_b": "Vancouver Canucks",
+          "time": "2025-11-04T06:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl4",
+          "title": "Kraken vs Blackhawks",
+          "team_a": "Seattle Kraken",
+          "team_b": "Chicago Blackhawks",
+          "time": "2025-11-04T08:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/placeholder.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            }
+          ]
         }
       ]
     },
     {
-      "id": "nhl2",
-      "league": "NHL",
-      "league_name": "National Hockey League",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
-      "title": "Blues vs Oilers",
-      "team_a": "St. Louis Blues",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/stl.png",
-      "team_b": "Edmonton Oilers",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/edm.png",
-      "time": "2025-11-04T06:30:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nhl3",
-      "league": "NHL",
-      "league_name": "National Hockey League",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
-      "title": "Predators vs Canucks",
-      "team_a": "Nashville Predators",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nsh.png",
-      "team_b": "Vancouver Canucks",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/van.png",
-      "time": "2025-11-04T06:30:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nhl4",
-      "league": "NHL",
-      "league_name": "National Hockey League",
-      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
-      "title": "Kraken vs Blackhawks",
-      "team_a": "Seattle Kraken",
-      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/sea.png",
-      "team_b": "Chicago Blackhawks",
-      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/chi.png",
-      "time": "2025-11-04T08:00:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/placeholder.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "more1",
       "league": "more",
       "league_name": "NCAA Football",
-      "league_url": "https://example.com/ncaa.png",
-      "title": "UFC vs #22 Houston",
-      "team_a": "UFC",
-      "team_a_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/scoreboard.png",
-      "team_b": "#22 Houston Cougars",
-      "team_b_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-      "time": "2025-11-08T06:00:00+05:00",
-      "streams": [
+      "matches": [
         {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=6FyYiKaK23rRF8NRN_P-_srVJwu3dMHHIDliEvxJEho&e=1762118030",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streamcenter.pro/"
-          }
+          "id": "more1",
+          "title": "UFC vs #22 Houston",
+          "team_a": "UFC",
+          "team_b": "#22 Houston Cougars",
+          "time": "2025-11-08T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Server1",
+              "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=6FyYiKaK23rRF8NRN_P-_srVJwu3dMHHIDliEvxJEho&e=1762118030",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streamcenter.pro/"
+              }
+            }
+          ]
         }
       ]
     }
