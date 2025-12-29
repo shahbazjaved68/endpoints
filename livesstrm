@@ -1,0 +1,598 @@
+{
+  "matches": [
+    {
+      "id": "nhl_new1",
+      "league": "NHL",
+      "league_name": "National Hockey League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+      "title": "Golden Knights vs Avalanche",
+      "team_a": "Vegas Golden Knights",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/vgk.png",
+      "team_b": "Colorado Avalanche",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/col.png",
+      "time": "2025-11-01T01:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nhl_new2",
+      "league": "NHL",
+      "league_name": "National Hockey League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+      "title": "Capitals vs Islanders",
+      "team_a": "Washington Capitals",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/wsh.png",
+      "team_b": "New York Islanders",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nyi.png",
+      "time": "2025-11-01T04:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new1",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "76ers vs Celtics",
+      "team_a": "Philadelphia 76ers",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png",
+      "team_b": "Boston Celtics",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png",
+      "time": "2025-11-01T04:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new2",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Pacers vs Hawks",
+      "team_a": "Indiana Pacers",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png",
+      "team_b": "Atlanta Hawks",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/atl.png",
+      "time": "2025-11-01T04:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new3",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Cavaliers vs Raptors",
+      "team_a": "Cleveland Cavaliers",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png",
+      "team_b": "Toronto Raptors",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png",
+      "time": "2025-11-01T04:30:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "more2",
+      "league": "more",
+      "league_name": "ncaa football",
+      "league_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/scoreboard.png",
+      "title": "Rice vs #25 Memphis",
+      "team_a": "Rice Owls",
+      "team_a_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
+      "team_b": "#25 Memphis Tigers",
+      "team_b_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+      "time": "2025-11-01T04:30:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new4",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Bulls vs Knicks",
+      "team_a": "Chicago Bulls",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png",
+      "team_b": "New York Knicks",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png",
+      "time": "2025-11-01T05:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb1",
+      "league": "MLB",
+      "league_name": "Major League Baseball",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "title": "Blue Jays vs Dodgers",
+      "team_a": "Toronto Blue Jays",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png",
+      "team_b": "Los Angeles Dodgers",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png",
+      "time": "2025-11-01T05:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new5",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Grizzlies vs Lakers",
+      "team_a": "Memphis Grizzlies",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png",
+      "team_b": "Los Angeles Lakers",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png",
+      "time": "2025-11-01T06:30:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "more1",
+      "league": "more",
+      "league_name": "F1 Nascar Phoenix Raceway",
+      "league_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+      "title": "F1 vs Live",
+      "team_a": "F1",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+      "team_b": "Live",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+      "time": "2025-11-01T06:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nhl_new3",
+      "league": "NHL",
+      "league_name": "National Hockey League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+      "title": "Ducks vs Red Wings",
+      "team_a": "Anaheim Ducks",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ana.png",
+      "team_b": "Detroit Red Wings",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/det.png",
+      "time": "2025-11-01T07:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new6",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Suns vs Jazz",
+      "team_a": "Phoenix Suns",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png",
+      "team_b": "Utah Jazz",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png",
+      "time": "2025-11-01T07:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new7",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Trail Blazers vs Nuggets",
+      "team_a": "Portland Trail Blazers",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png",
+      "team_b": "Denver Nuggets",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png",
+      "time": "2025-11-01T07:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nba_new8",
+      "league": "NBA",
+      "league_name": "National Basketball Association",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "title": "Clippers vs Pelicans",
+      "team_a": "Los Angeles Clippers",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png",
+      "team_b": "New Orleans Pelicans",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/no.png",
+      "time": "2025-11-01T07:30:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nhl_new4",
+      "league": "NHL",
+      "league_name": "National Hockey League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+      "title": "Bruins vs Hurricanes",
+      "team_a": "Boston Bruins",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/bos.png",
+      "team_b": "Carolina Hurricanes",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png",
+      "time": "2025-11-01T22:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "more3",
+      "league": "more",
+      "league_name": "ncaa football",
+      "league_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/scoreboard.png",
+      "title": "#20 Texas vs #9 Vanderbilt",
+      "team_a": "#20 Texas Longhorns",
+      "team_a_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+      "team_b": "#9 Vanderbilt Commodores",
+      "team_b_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+      "time": "2025-11-01T21:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "more4",
+      "league": "more",
+      "league_name": "ncaa football",
+      "league_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/scoreboard.png",
+      "title": "#22 Houston vs West Virginia",
+      "team_a": "#22 Houston Cougars",
+      "team_a_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+      "team_b": "West Virginia Mountaineers",
+      "team_b_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+      "time": "2025-11-01T21:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "more5",
+      "league": "more",
+      "league_name": "ncaa football",
+      "league_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/scoreboard.png",
+      "title": "#1 Ohio State vs Penn State",
+      "team_a": "#1 Ohio State Buckeyes",
+      "team_a_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+      "team_b": "Penn State Nittany Lions",
+      "team_b_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+      "time": "2025-11-01T21:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "more6",
+      "league": "more",
+      "league_name": "ncaa football",
+      "league_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/scoreboard.png",
+      "title": "SMU vs #10 Miami (FL)",
+      "team_a": "SMU Mustangs",
+      "team_a_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+      "team_b": "#10 Miami Hurricanes",
+      "team_b_logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+      "time": "2025-11-01T21:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new1",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Giants vs 49ers",
+      "team_a": "New York Giants",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png",
+      "team_b": "San Francisco 49ers",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new2",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Titans vs Chargers",
+      "team_a": "Tennessee Titans",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png",
+      "team_b": "Los Angeles Chargers",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new3",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Lions vs Vikings",
+      "team_a": "Detroit Lions",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png",
+      "team_b": "Minnesota Vikings",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new4",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Patriots vs Falcons",
+      "team_a": "New England Patriots",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png",
+      "team_b": "Atlanta Falcons",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new5",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Steelers vs Colts",
+      "team_a": "Pittsburgh Steelers",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png",
+      "team_b": "Indianapolis Colts",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new6",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Texans vs Broncos",
+      "team_a": "Houston Texans",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png",
+      "team_b": "Denver Broncos",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfl_new7",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "title": "Bengals vs Bears",
+      "team_a": "Cincinnati Bengals",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png",
+      "team_b": "Chicago Bears",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png",
+      "time": "2025-11-02T23:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb2",
+      "league": "MLB",
+      "league_name": "Major League Baseball",
+      "league_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "title": "Blue Jays vs Dodgers",
+      "team_a": "Toronto Blue Jays",
+      "team_a_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png",
+      "team_b": "Los Angeles Dodgers",
+      "team_b_logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png",
+      "time": "2025-11-02T05:00:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": ""
+          }
+        }
+      ]
+    }
+  ]
+}
